@@ -1,0 +1,11 @@
+{
+  "name": "cachestore",
+  "version": "0.1.0",
+  "displayName": "CacheStore",
+  "unity": "2020.3",
+  "keywords": [],
+  "dependencies": {
+    "com.cysharp.unitask": "2.1.0"
+  },
+  "description": "binary cache store for unity"
+}
