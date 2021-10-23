@@ -2,4 +2,4 @@
 binary cache store for Unity
 
 # Install
-add ``https://github.com/gatari/CacheStore`` to Package Manager
+add ``https://github.com/gatari/CacheStore.git`` to Package Manager
